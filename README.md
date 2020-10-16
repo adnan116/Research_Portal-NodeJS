@@ -1,1 +1,1 @@
-# Research_Portal-NodeJS
+An online portal for Research Management System from where teachers can offer new Thesis/Project topics and students can apply for their chosen topic. Admin can manage everything himself using the root access privilege.
